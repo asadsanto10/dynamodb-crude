@@ -5,3 +5,5 @@ const route = express.Router();
 route.get('/', getCharacter);
 
 module.exports = route;
+
+const aba = 'adsadsa';
